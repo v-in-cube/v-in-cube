@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @v-in-cube
-- 👀 I’m interested in studying Machine Learning for reaction mining and reaction processing purposes 
-- 🌱 I’m currently learning everything that is necessary to master Machine Learning in Chemoinformatics
+Hello, I'm Varvara Voinarovska, WASP postdoc at AstraZeneca and Chalmers!
 
+In this account I mostly publish supporting repos for my research. (not so much because research is hard)
+I was doing research around Yield prediction (turned out to be bad! we clearly lack good data for any general-purpose models).
+Now my topics of interest are Human-in-the-Loop and LLMs for chemistry and how those two concepts interact!
 
-<!---
-v-in-cube/v-in-cube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
